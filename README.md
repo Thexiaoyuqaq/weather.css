@@ -49,7 +49,7 @@
 ### 1. 引入 CSS 文件
 在 HTML `<head>` 标签中添加：
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Thexiaoyuqaq/weather.css@master/weather.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Thexiaoyuqaq/weather.css@master/weather.css">
 ```
 
 ### 2. 应用天气效果
